@@ -34,7 +34,7 @@
     "mongodb": "^2.2.21"
   },
   "scripts": {
-		//"test":"mocha ./test/*.test.js"
+	  "//": "test here"
   },
   "devDependencies": {
       "mocha": "^3.2.0",
