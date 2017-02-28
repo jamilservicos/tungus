@@ -27,11 +27,11 @@
     "npm": "4.1.2"
   },
   "dependencies": {
-    "safe": "^0.4.2",
+    "safe": "^0.4.3",
     "lodash": "^4.17.4",
     "mkdirp": "~0.5.0",
     "tingodb": "https://github.com/jamilservicos/tingodb/tarball/v0.5.3-custom",
-    "mongodb": "^2.2.21"
+    "mongodb": "^2.2.24"
   },
   "scripts": {
 	  "//": "test here"
