@@ -1,7 +1,7 @@
 Tungus
 ======
 
-[![Build Status](https://travis-ci.org/sergeyksv/tungus.png?branch=master)](https://travis-ci.org/sergeyksv/tungus)
+[![Build Status](https://travis-ci.org/jamilservicos/tungus.svg?branch=master)](https://travis-ci.org/jamilservicos/tungus)
 
 __Note! Currently driver support operation only with Mongoose 3.x. Mongoose 4.x uses API of MongoDb driver 2.x while TingoDB currently is compatible with 1.x API only. Please let us know if support of 4.x version is essential.__
 
