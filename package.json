@@ -30,7 +30,7 @@
     "safe": "^0.4.2",
     "lodash": "^4.17.4",
     "mkdirp": "~0.5.0",
-    "tingodb": "https://github.com/jamilservicos/tingodb/tarball/v0.5.3-custom",
+    "tingodb": "https://github.com/jamilservicos/tingodb/tarball/v0.5.3-custom.1",
     "mongodb": "^2.2.21"
   },
   "scripts": {
